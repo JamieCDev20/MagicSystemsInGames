@@ -1,0 +1,12 @@
+Better game magic involves:
+	- System
+	- Ritual
+	- Language
+	- World
+	- Multimodal input
+	- Player performance
+	- Puzzles
+	- Innovation strengthened by hostorical knowledge
+	- Procedural adaptation
+	- Programming
+
